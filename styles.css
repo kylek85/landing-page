@@ -1,0 +1,25 @@
+a {
+    text-decoration: none;
+    color: #F9FAF8
+}
+
+.header-container {
+display: flex;
+justify-content: space-around;
+background-color: #1F2937;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: white;
+}
+
+.right-links {
+    gap: 40px;
+    display: flex;
+    font-size: 24px;
+    color: white;
+    font-size: 18px;
+    align-items: center;
+    font: #E5E7EB;
+}
