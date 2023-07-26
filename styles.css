@@ -1,6 +1,9 @@
 body {
     display: flex;
     flex-direction: column;
+    font-family: 'Roboto',arial;
+    box-sizing: border-box;
+    margin: 0;
 }
 a {
     text-decoration: none;
@@ -95,7 +98,6 @@ a {
     align-items: center;
     background-color: #E5E7EB;
     padding: 80px;
-    margin: 20px;
 }
 
 .quotecontainer .quote {
@@ -168,5 +170,6 @@ a {
     background-color: #1F2937;
     color: white;
     padding: 25px;
+    margin-bottom: none;
 
 }
